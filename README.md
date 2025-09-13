@@ -84,22 +84,22 @@ This project explores the **CORD-19 research dataset** of COVID-19 research pape
 > Screenshots below show the Streamlit app interface and example visualizations.
 
 **Homepage**
-![Streamlit Home](images/streamlit_home.png)
+![Streamlit Home](images/streamlit_home.PNG)
 
 **Publications per Year**
-![Publications per Year](images/publications_per_year.png)
+![Publications per Year](images/publications_per_year.PNG)
 
 **Top 10 Journals**
-![Top Journals](images/top_journals.png)
+![Top Journals](images/top_journals.PNG)
 
 **Word Cloud of Titles**
-![Word Cloud](images/wordcloud_titles.png)
+![Word Cloud](images/wordcloud_titles.PNG)
 
 **Source Distribution**
-![Source Distribution](images/source_distribution.png)
+![Source Distribution](images/source_distribution.PNG)
 
 **Sample Papers Table**
-![Sample Papers](images/sample_papers.png)
+![Sample Papers](images/sample_papers.PNG)
 
 ---
 
@@ -200,7 +200,7 @@ pip freeze > requirements.txt
 
 ## 10. Submission
 
-* **GitHub Repository:** [https://github.com/slate299/frameworks\_Assignment](https://github.com/slate299/frameworks_Assignment)
+* **GitHub Repository:** [https://github.com/slate299/frameworks\_Assignment](https://github.com/GraceHinga/python_frameworks_assignment)
 * Include all files **except the large CSVs**, which users download from Kaggle.
 
 ---
